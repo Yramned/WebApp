@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "full_name": "ss",
+        "phone_number": "09090909",
+        "address": "yty",
+        "email": "officer@department.gov.ph",
+        "password": "$2y$10$Qc7k9anA4oH27PATYiLR0OXnehc2rYM\/YCGlaQBxrTXgORvrBu03K",
+        "role": "evacuee",
+        "created_at": "2026-02-03 16:04:16"
+    },
+    {
+        "id": 2,
+        "full_name": "ss",
+        "phone_number": "09090909",
+        "address": "yty",
+        "email": "jxajxaxj@gov.ph",
+        "password": "$2y$10$AUW8\/QTMbMN4.7Yig\/AF2O9IL9Q1oTMAmEdN17ekK9OjSF6BCZoxO",
+        "role": "evacuee",
+        "created_at": "2026-02-03 16:05:02"
+    },
+    {
+        "id": 3,
+        "full_name": "mary",
+        "phone_number": "09090909",
+        "address": "greenhills",
+        "email": "s2402357@usls.edu.ph",
+        "password": "$2y$10$f1GXNFlIrTmF61wXnenePuR.PAOOxP\/JW493qunmaIltr2od.fzbG",
+        "role": "evacuee",
+        "created_at": "2026-02-03 16:17:24"
+    }
+]

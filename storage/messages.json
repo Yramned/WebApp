@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Yram",
+        "email": "s2402357@usls.edu.ph",
+        "subject": "ss",
+        "message": "ss",
+        "id": 1,
+        "created": "2026-02-03 15:38:40"
+    },
+    {
+        "name": "Yram",
+        "email": "s2402357@usls.edu.ph",
+        "subject": "secret",
+        "message": "chuchuness",
+        "id": 2,
+        "created": "2026-02-03 17:33:01"
+    },
+    {
+        "name": "Yram",
+        "email": "s2402357@usls.edu.ph",
+        "subject": "secret",
+        "message": "chcuhuenss",
+        "id": 3,
+        "created": "2026-02-04 08:13:14"
+    }
+]
