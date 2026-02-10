@@ -1,6 +1,6 @@
 <?php
 /**
- * SafeHaven – auth.php
+ * 123SafeHaven – auth.php
  * Handles:  ?action=login  |  ?action=register  |  ?action=logout
  *           POST login_submit  |  POST register_submit
  */
