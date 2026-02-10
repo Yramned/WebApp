@@ -18,7 +18,7 @@ require_once 'header.php';
 <main class="dash-main">
 <div class="dash-container">
 
-<!-- ─── Welcome banner ─────────────────────────── -->
+<!-- ─── 123Welcome banner ─────────────────────────── -->
 <div class="dash-banner">
     <div>
         <h2>Welcome back, <span><?= htmlspecialchars($_SESSION['user_name']) ?></span></h2>
